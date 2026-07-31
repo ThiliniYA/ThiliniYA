@@ -1,6 +1,5 @@
 ##👋 Hi, I'm Thilini
----
-### Junior QA Engineer | Manual & Automation Testing | C# | Selenium | NUnit | Reqnroll
+Junior QA Engineer | Manual & Automation Testing | C# | Selenium | NUnit | Reqnroll
 ---
 I’m a passionate QA Engineer based in Wellington, New Zealand. I specialise in ensuring software quality through thoughtful manual testing and am currently transitioning into QA Automation using C#, Selenium WebDriver, and BDD frameworks.
 
