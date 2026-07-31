@@ -5,6 +5,7 @@ I’m a passionate QA Engineer based in Wellington, New Zealand. I specialise in
 I focus on writing clear, maintainable tests and building small, complete automation projects that solve real testing problems.
 
 ##📈 About Me
+---
 I completed the Industry Connect Job‑Ready Programme, where I worked with real teams, real projects, and real deadlines. It gave me a solid understanding of how QA fits into modern development and how important good communication and teamwork are.
 
 I’m currently doing an internship, which has been a great chance to apply what I’ve learned in a real environment and continue building my automation skills.
@@ -17,6 +18,7 @@ I also spent five months doing freelance testing for Lexion Lab, working on a Sa
 - Outside of work: I enjoy learning new tools, improving my automation skills, and exploring ways to make testing smoother and smarter.
 
 ##📂 Featured Projects
+---
 ### UI Automation Framework (C# + Selenium + NUnit) (In Progress)
 Why I’m building this: To create a clean, modular automation framework using Page Object Model and reusable components.
 Tech: C#, Selenium WebDriver, NUnit
@@ -61,5 +63,6 @@ Creating a professional QA automation portfolio
 Actively preparing for QA Automation roles
 
 🤝 Let’s Connect
+---
 LinkedIn
 GitHub
