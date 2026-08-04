@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Thilini
 
-I’m a QA Engineer based in Wellington, New Zealand. I specialise in ensuring software quality through thoughtful manual testing and am currently transitioning into QA Automation using **C#**, **Selenium WebDriver**, **NUnit**, and **Reqnroll**.
+I’m a QA Engineer based in Wellington, New Zealand. I specialise in ensuring software quality through thoughtful manual testing, and I am currently transitioning into QA Automation using **C#**, **Selenium WebDriver**, **NUnit**, and **Reqnroll**.
 
 I enjoy writing clear, maintainable tests and building small automation projects that solve real testing problems.
 
