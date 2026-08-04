@@ -12,7 +12,7 @@ I completed the **Industry Connect Job‑Ready Programme**, where I worked with 
 
 I’m currently doing an **internship**, which has been a great chance to apply what I’ve learned in a real environment and continue building my automation skills.
 
-Alongside my QA work, I’m finishing my **Diploma in Web Development & Design**, which helps me understand how applications are built — something that makes me a stronger tester.
+Alongside my QA work, I’m finishing my **Diploma in Web Development & Design**, which helps me understand how applications are built, something that makes me a stronger tester.
 
 I also spent five months doing **freelance testing for Lexion Lab**, working on a SaaS platform. I handled functional testing, usability checks, API testing, and detailed bug reporting. It was my first real client project, and it taught me how to work independently and deliver reliable results.
 
