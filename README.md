@@ -23,17 +23,27 @@ I also spent five months doing **freelance testing for Lexion Lab**, working on 
 
 ## 📂 Featured Projects
 
-### 🧪 UI Automation Framework (C# + Selenium + NUnit) *(In Progress)*  
-**Why:** To build a clean, modular automation framework using Page Object Model and reusable components.  
-**Tech:** C#, Selenium WebDriver, NUnit  
-**What it shows:** My transition into automation and my ability to design structured, scalable test suites.
+### 🥗 Healthy Bites – Manual Testing & Automation
+**Why:** A full testing project on a website I built myself — from test planning through to automated regression coverage.  
+**Tech:** C#, Selenium WebDriver, NUnit, Page Object Model  
+**What it shows:** End-to-end QA process — test plan, structured test cases, real bug reports, and a working automation suite covering navigation and form validation, including a test that documents a real bug I found manually.
+**Repo:** healthy_bites_website
 
 ---
 
-### 🧩 BDD Automation with Reqnroll *(In Progress)*  
-**Why:** To practise writing feature files, step definitions, and hooks using a modern .NET BDD framework.  
+### 🧩 BDD Automation Framework (C# + Reqnroll + NUnit) 
+**Why:** To build a modular automation framework using Behaviour-Driven Development, Page Object Model, and reusable components.
 **Tech:** C#, Reqnroll, NUnit  
-**What it shows:** My understanding of behaviour‑driven testing and collaborative test design.
+**What it shows:** Understanding of BDD-style test design and structured, scalable automation architecture.
+**Repo:** project-mars-automation
+
+---
+
+### 📊 Student Marks Reporting System
+**Why:** To practise backend and data validation testing beyond the UI layer.
+**Tech:** API testing, SQL
+**What it shows:** Ability to validate data and backend behaviour, not just what's visible on screen.
+**Repo:** Student-Marks-Reporting-System
 
 ---
 
@@ -46,14 +56,6 @@ I also spent five months doing **freelance testing for Lexion Lab**, working on 
 
 **What it shows:** Real‑world testing experience with a SaaS product and working within agile teams.
 
----
-
-### 🎮 Java Study Projects (Previous Coursework)  
-These projects reflect my earlier Java learning and problem‑solving skills.
-
-- **Coin Collection Game (Java Swing)**  
-- **Student Marks Reporting System (Java Console App)**  
-- **Git & Version Control Workflow Demo**
 
 ---
 
@@ -68,16 +70,14 @@ These projects reflect my earlier Java learning and problem‑solving skills.
 
 ## 📈 Currently Working On
 
-- Building my first **Selenium + C# automation framework**  
-- Practising **BDD** with Reqnroll  
-- Improving API testing skills  
-- Strengthening SQL for backend validation  
-- Creating a professional QA automation portfolio  
-- Preparing for QA Automation roles  
+- Polishing my BDD automation framework with Reqnroll
+- Improving API testing skills
+- Strengthening SQL for backend validation
+- Preparing for QA Automation roles
 
 ---
 
 ## 🤝 Let’s Connect
 
-- **LinkedIn**  
-- **GitHub**
+- **LinkedIn :** https://www.linkedin.com/in/thilini-amarasekara-5aa975301/ 
+- **GitHub :** ThiliniYA
