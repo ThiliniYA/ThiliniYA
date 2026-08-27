@@ -1,20 +1,26 @@
 ## 👋 Hi, I'm Thilini
 
-I’m a QA Engineer based in Wellington, New Zealand. I specialise in ensuring software quality through thoughtful manual testing, and I am currently transitioning into QA Automation using **C#**, **Selenium WebDriver**, **NUnit**, and **Reqnroll**.
+I’m a QA Engineer based in Wellington, New Zealand, with a focus on thoughtful manual testing and growing expertise in test automation.
 
-I enjoy writing clear, maintainable tests and building small automation projects that solve real testing problems.
+I work with **C#**, **Selenium WebDriver**, **NUnit**, and **Reqnroll**, and I’m also building experience in **API testing** with **Postman** and backend validation using **SQL**.
+
+I enjoy understanding how applications work, exploring different ways they could fail, and writing clear, maintainable tests. I also build small automation projects to strengthen my skills and solve practical testing problems.
 
 ---
 
 ## 📈 About Me
 
-I completed the **Industry Connect Job‑Ready Programme**, where I worked with real teams, real projects, and real deadlines. It gave me a solid understanding of how QA fits into modern development and how important good communication and teamwork are.
+I’m currently a **QA intern at MVP Studio** through the Industry Connect Job-Ready Programme, where I’m gaining hands-on experience in manual testing while building my automation skills. I’ve been working with Selenium and C# for UI automation, Postman for API testing, and basic SQL for data validation.
 
-I’m currently doing an **internship**, which has been a great chance to apply what I’ve learned in a real environment and continue building my automation skills.
+Alongside that, I’ve worked as a freelance software tester at Lexion Lab, testing a SaaS event management and ticketing platform. That gave me the opportunity to take ownership of end-to-end manual testing across important workflows like registrations, payments and refunds. I also worked closely with developers to reproduce issues, clarify requirements and verify fixes.
 
-Alongside my QA work, I’m finishing my **Diploma in Web Development & Design**, which helps me understand how applications are built, something that makes me a stronger tester.
+I’m also finishing my Diploma in Web Development and Design, which has helped me understand more about how applications are built, and I think that gives me a stronger foundation as a tester.
 
-I also spent five months doing **freelance testing for Lexion Lab**, working on a SaaS platform. I handled functional testing, usability checks, API testing, and detailed bug reporting. It was my first real client project, and it taught me how to work independently and deliver reliable results.
+I’ve also applied what I’m learning to my own projects, including Healthy Bites and the Student Marks Reporting System, where I’ve been practising automation and backend testing outside of my work experience.
+
+Before moving into QA, I worked in manufacturing, including as a Health and Safety Administrator at Amcor. That experience actually gave me a mindset that I find very useful in QA. I was responsible for risk assessments, maintaining the hazard register and internal audits, and I was always looking for potential problems early and thinking about what could go wrong. I see a strong connection between that and testing — identifying risks and issues before they affect the end user.
+
+So now I’m looking for an opportunity where I can bring my existing testing experience and transferable skills, while continuing to grow technically, particularly in automation.
 
 **My approach:** keep things simple, stay curious, and always think about the person who will use the product next.  
 **Outside of work:** I enjoy learning new tools, improving my automation skills, and exploring ways to make testing smoother and smarter.
