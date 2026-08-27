@@ -18,7 +18,7 @@ I’m also finishing my Diploma in Web Development and Design, which has helped 
 
 I’ve also applied what I’m learning to my own projects, including Healthy Bites and the Student Marks Reporting System, where I’ve been practising automation and backend testing outside of my work experience.
 
-Before moving into QA, I worked in manufacturing, including as a Health and Safety Administrator at Amcor. That experience actually gave me a mindset that I find very useful in QA. I was responsible for risk assessments, maintaining the hazard register and internal audits, and I was always looking for potential problems early and thinking about what could go wrong. I see a strong connection between that and testing — identifying risks and issues before they affect the end user.
+Before moving into QA, I worked in manufacturing, including as a Health and Safety Administrator at Amcor. That experience actually gave me a mindset that I find very useful in QA. I was responsible for risk assessments, maintaining the hazard register and internal audits, and I was always looking for potential problems early and thinking about what could go wrong. I see a strong connection between that and testing identifying risks and issues before they affect the end user.
 
 So now I’m looking for an opportunity where I can bring my existing testing experience and transferable skills, while continuing to grow technically, particularly in automation.
 
@@ -30,15 +30,15 @@ So now I’m looking for an opportunity where I can bring my existing testing ex
 ## 📂 Featured Projects
 
 ### 🥗 Healthy Bites – Manual Testing & Automation
-**Why:** A full testing project on a website I built myself — from test planning through to automated regression coverage.  
+**Why:** A full testing project on a website I built myself, from test planning through to automated regression coverage.  
 **Tech:** C#, Selenium WebDriver, NUnit, Page Object Model  
-**What it shows:** End-to-end QA process — test plan, structured test cases, real bug reports, and a working automation suite covering navigation and form validation, including a test that documents a real bug I found manually.
+**What it shows:** End-to-end QA process - test plan, structured test cases, real bug reports, and a working automation suite covering navigation and form validation, including a test that documents a real bug I found manually.
 **Repo:** healthy_bites_website
 
 ---
 
 ### 🧩 BDD Automation Framework (C# + Reqnroll + NUnit) 
-**Why:** To build a modular automation framework using Behaviour-Driven Development, Page Object Model, and reusable components.
+**Why:** To build a modular automation framework using Behaviour Driven Development, Page Object Model, and reusable components.  
 **Tech:** C#, Reqnroll, NUnit  
 **What it shows:** Understanding of BDD-style test design and structured, scalable automation architecture.
 **Repo:** project-mars-automation
