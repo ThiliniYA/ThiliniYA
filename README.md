@@ -32,7 +32,7 @@ So now I’m looking for an opportunity where I can bring my existing testing ex
 ### 🥗 Healthy Bites – Manual Testing & Automation
 **Why:** A full testing project on a website I built myself, from test planning through to automated regression coverage.  
 **Tech:** C#, Selenium WebDriver, NUnit, Page Object Model  
-**What it shows:** End-to-end QA process - test plan, structured test cases, real bug reports, and a working automation suite covering navigation and form validation, including a test that documents a real bug I found manually.
+**What it shows:** End-to-end QA process - test plan, structured test cases, real bug reports, and a working automation suite covering navigation and form validation, including a test that documents a real bug I found manually. 
 **Repo:** healthy_bites_website
 
 ---
@@ -40,15 +40,15 @@ So now I’m looking for an opportunity where I can bring my existing testing ex
 ### 🧩 BDD Automation Framework (C# + Reqnroll + NUnit) 
 **Why:** To build a modular automation framework using Behaviour Driven Development, Page Object Model, and reusable components.  
 **Tech:** C#, Reqnroll, NUnit  
-**What it shows:** Understanding of BDD-style test design and structured, scalable automation architecture.
+**What it shows:** Understanding of BDD-style test design and structured, scalable automation architecture. 
 **Repo:** project-mars-automation
 
 ---
 
 ### 📊 Student Marks Reporting System
-**Why:** To practise backend and data validation testing beyond the UI layer.
-**Tech:** API testing, SQL
-**What it shows:** Ability to validate data and backend behaviour, not just what's visible on screen.
+**Why:** To practise backend and data validation testing beyond the UI layer.  
+**Tech:** API testing, SQL  
+**What it shows:** Ability to validate data and backend behaviour, not just what's visible on screen. 
 **Repo:** Student-Marks-Reporting-System
 
 ---
@@ -70,7 +70,7 @@ So now I’m looking for an opportunity where I can bring my existing testing ex
 **Automation:** C#, Selenium WebDriver, NUnit, Reqnroll  
 **Testing:** Functional, Regression, Exploratory, API (Postman), SQL  
 **Tools:** Visual Studio, Git, GitHub, Jira  
-**Other:** Java (previous study), JSON, XML  
+**Other:** Java (previous study)
 
 ---
 
